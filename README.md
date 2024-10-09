@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Table of contents
 
@@ -13,9 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 his is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
@@ -44,11 +43,8 @@ For the CSS, I started with a basic reset, then went ahead witha general body st
 
 ### What I learned
 
-I learned a lot about flex and the correct way to use flex. I also had a bit of practice with media query. 
+I learned a lot about flex and the correct way to use flex. I also had a bit of practice with media query. Media queries operate in order. Initially, I placed the media query for mobile before that of the tablet, and this definitely made the mobile version wonky. I had to do it the right way, which is placing the media query for the tablet before the mobile. 
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 .innerbox {
     display: flex;
