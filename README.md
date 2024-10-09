@@ -1,8 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
@@ -13,9 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 his is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
@@ -46,9 +43,6 @@ For the CSS, I started with a basic reset, then went ahead witha general body st
 
 I learned a lot about flex and the correct way to use flex. I also had a bit of practice with media query. 
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 .innerbox {
     display: flex;
