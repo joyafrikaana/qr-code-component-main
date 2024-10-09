@@ -20,7 +20,6 @@ img{
 .the-box{
     display: flex;
     justify-content: center;
-    /* align-content: center; */
     
 }
 
@@ -61,6 +60,34 @@ p {
     font-size: 15px;
     font-weight: 400;
     color: grey;
+}
+
+
+@media  screen and (max-width: 768px) {
+    img{
+        border-radius: 10px;
+        width: 250px;  
+    }
+    .outerbox {
+        padding: 50px 150px 50px 150px;
+    }
+
+    .innerbox {
+        padding: 15px;
+    }
+    
+    .box {
+        width: 200px;
+        padding-top: 20px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+    
+    p {
+        font-size: 12px;
+    }
 }
 
 @media  screen and (max-width: 375px) {
